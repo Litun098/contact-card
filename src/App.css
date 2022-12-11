@@ -1,0 +1,27 @@
+.card--favourite {
+    width: 20px;
+    padding: 0;
+    line-height: 2px;
+}
+
+.card {
+    margin: 5px;
+    line-height: 5px;
+    width: 175px;
+    height: 300px;
+    box-shadow: 1.9453px 1.93455px rgba(0, 0, 0, 0.342);
+    border-radius: 5px;
+    background-color: rgba(230, 234, 238, 0.37);
+}
+
+.card--image {
+    padding: 2px;
+    width: 170px;
+    border-radius: 50%;
+}
+
+.card--info {
+    padding: 2px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
